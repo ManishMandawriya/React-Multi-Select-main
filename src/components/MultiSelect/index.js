@@ -28,6 +28,7 @@ export const MultiSelect = () => {
   return (
     <>
     <h1>React Select Project</h1>
+    
       <Select
         defaultValue={[options[0], options[2]]}
         components={animatedComponents}
